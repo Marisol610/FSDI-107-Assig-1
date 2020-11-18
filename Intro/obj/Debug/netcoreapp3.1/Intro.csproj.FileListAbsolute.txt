@@ -1,0 +1,12 @@
+/Users/marisolrodriguez/Desktop/Intro/bin/Debug/netcoreapp3.1/Intro.deps.json
+/Users/marisolrodriguez/Desktop/Intro/bin/Debug/netcoreapp3.1/Intro.runtimeconfig.json
+/Users/marisolrodriguez/Desktop/Intro/bin/Debug/netcoreapp3.1/Intro.runtimeconfig.dev.json
+/Users/marisolrodriguez/Desktop/Intro/bin/Debug/netcoreapp3.1/Intro.dll
+/Users/marisolrodriguez/Desktop/Intro/bin/Debug/netcoreapp3.1/Intro.pdb
+/Users/marisolrodriguez/Desktop/Intro/obj/Debug/netcoreapp3.1/Intro.csprojAssemblyReference.cache
+/Users/marisolrodriguez/Desktop/Intro/obj/Debug/netcoreapp3.1/Intro.AssemblyInfoInputs.cache
+/Users/marisolrodriguez/Desktop/Intro/obj/Debug/netcoreapp3.1/Intro.AssemblyInfo.cs
+/Users/marisolrodriguez/Desktop/Intro/obj/Debug/netcoreapp3.1/Intro.csproj.CoreCompileInputs.cache
+/Users/marisolrodriguez/Desktop/Intro/obj/Debug/netcoreapp3.1/Intro.dll
+/Users/marisolrodriguez/Desktop/Intro/obj/Debug/netcoreapp3.1/Intro.pdb
+/Users/marisolrodriguez/Desktop/Intro/obj/Debug/netcoreapp3.1/Intro.genruntimeconfig.cache
